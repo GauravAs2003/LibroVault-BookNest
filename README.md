@@ -86,21 +86,22 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshots/Signup&Login.png)
+![Login Page](screenshots/login.png)
 
 ---
 
 ### 🏠 User Dashboard
-![User Dashboard](screenshots/Dashboard.png)
+![User Dashboard](screenshots/dashboard.png)
 
 ---
 
 ### 📚 Book List
-![Book List](screenshots/BookList.png)
+![Book List](screenshots/book-list.png)
 
 ---
-### 📚 Borrow & Return Book
-![Book List](screenshots/Borrow&Return.png)
+
+### 🔄 Borrow & Return Book
+![Borrow & Return](screenshots/borrow-return.png)
 
 ---
 
