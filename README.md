@@ -52,6 +52,9 @@ LibroVault-BookNest/
 ├── frontend/ # React application
 │├── src/
 │└── package.json
+|
+├── screenshots/
+├── diagrams/ 
 │
 ├── .gitignore
 └── README.md
@@ -139,4 +142,13 @@ Real-world CRUD operations
 
 Gaurav Aswale
 
-GitHub: https://github.com/GauravAs2003
+
+👉Contact me :----
+
+📧 Email: gauravaswale65@gmail.com
+
+📞 Phone: +91 9370320225"
+ 
+🔵LinkedIn:https://www.linkedin.com/in/gaurav-aswale-65566531b/
+
+🐙GitHub:https://github.com/GauravAs2003
