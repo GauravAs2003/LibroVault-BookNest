@@ -96,12 +96,12 @@ http://localhost:3000
 ---
 
 ### 📚 Book List
-![Book List](screenshots/book-list.png)
+![Book List](screenshots/booklist.png)
 
 ---
 
 ### 🔄 Borrow & Return Book
-![Borrow & Return](screenshots/borrow-return.png)
+![Borrow & Return](screenshots/borrowreturn.png)
 
 
 ---
