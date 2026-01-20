@@ -147,7 +147,7 @@ Gaurav Aswale
 
 📧 Email: gauravaswale65@gmail.com
 
-📞 Phone: +91 9370320225"
+📞 Phone: +91 9370320225
  
 🔵LinkedIn:https://www.linkedin.com/in/gaurav-aswale-65566531b/
 
