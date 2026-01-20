@@ -42,7 +42,7 @@ It helps librarians and users manage books, issue/return operations, and user au
 ---
 
 ## 📂 Project Structure
-
+```
 LibroVault-BookNest/
 │
 ├── backend/ # Spring Boot application
@@ -56,7 +56,7 @@ LibroVault-BookNest/
 ├── .gitignore
 └── README.md
 
-
+```
 ---
 
 ## ▶️ How to Run the Project Locally
@@ -79,6 +79,30 @@ npm start
 ```
 3.Frontend runs on:
 http://localhost:3000
+
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/Signup&Login.png)
+
+---
+
+### 🏠 User Dashboard
+![User Dashboard](screenshots/Dashboard.png)
+
+---
+
+### 📚 Book List
+![Book List](screenshots/BookList.png)
+
+---
+### 📚 Borrow & Return Book
+![Book List](screenshots/Borrow&Return.png)
+
+---
 
 🔐 Authentication
 
