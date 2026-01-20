@@ -83,6 +83,15 @@ http://localhost:3000
 
 ---
 
+
+## 🗄️ Database ER Diagram
+
+The following ER diagram represents the database design of the Library Management System, showing entities and their relationships such as Users, Books, and Borrow records.
+
+![Database ER Diagram](diagrams/erdiagram.png)
+
+---
+
 ## 📸 Screenshots
 
 ### 🔐 Login Page
